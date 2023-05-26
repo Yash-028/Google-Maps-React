@@ -1,4 +1,4 @@
-# Google-Maps-React
+# Google-Maps
 
 Please Refer to this link for more info - https://www.npmjs.com/package/@googlemaps/react-wrapper
 
